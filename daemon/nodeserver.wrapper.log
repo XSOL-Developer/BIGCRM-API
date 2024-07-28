@@ -1,0 +1,34 @@
+2024-07-28 02:02:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Backend\BIGCRM-API\node_modules\node-windows\lib\wrapper.js --file C:\Backend\BIGCRM-API\index.js --scriptoptions= --log "nodeServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-28 02:02:55 - Started 360
+2024-07-28 02:03:31 - Stopping nodeserver.exe
+2024-07-28 02:03:31 - ProcessKill 360
+2024-07-28 02:03:31 - Found child process: 20148 Name: conhost.exe
+2024-07-28 02:03:31 - Found child process: 10344 Name: node.exe
+2024-07-28 02:03:31 - Stopping process 20148
+2024-07-28 02:03:31 - Send SIGINT 20148
+2024-07-28 02:03:31 - SIGINT to 20148 failed - Killing as fallback
+2024-07-28 02:03:31 - Stopping process 10344
+2024-07-28 02:03:31 - Send SIGINT 10344
+2024-07-28 02:03:31 - SIGINT to 10344 failed - Killing as fallback
+2024-07-28 02:03:31 - Stopping process 360
+2024-07-28 02:03:31 - Send SIGINT 360
+2024-07-28 02:03:31 - SIGINT to 360 failed - Killing as fallback
+2024-07-28 02:03:31 - Finished nodeserver.exe
+2024-07-28 02:03:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Backend\BIGCRM-API\node_modules\node-windows\lib\wrapper.js --file C:\Backend\BIGCRM-API\index.js --scriptoptions= --log "nodeServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-28 02:03:36 - Started 5776
+2024-07-28 02:03:41 - Stopping nodeserver.exe
+2024-07-28 02:03:41 - ProcessKill 5776
+2024-07-28 02:03:41 - Found child process: 11672 Name: conhost.exe
+2024-07-28 02:03:41 - Found child process: 11820 Name: node.exe
+2024-07-28 02:03:41 - Stopping process 11672
+2024-07-28 02:03:41 - Send SIGINT 11672
+2024-07-28 02:03:41 - SIGINT to 11672 failed - Killing as fallback
+2024-07-28 02:03:42 - Stopping process 11820
+2024-07-28 02:03:42 - Send SIGINT 11820
+2024-07-28 02:03:42 - SIGINT to 11820 failed - Killing as fallback
+2024-07-28 02:03:42 - Stopping process 5776
+2024-07-28 02:03:42 - Send SIGINT 5776
+2024-07-28 02:03:42 - SIGINT to 5776 failed - Killing as fallback
+2024-07-28 02:03:42 - Finished nodeserver.exe
+2024-07-28 02:03:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Backend\BIGCRM-API\node_modules\node-windows\lib\wrapper.js --file C:\Backend\BIGCRM-API\index.js --scriptoptions= --log "nodeServer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-28 02:03:42 - Started 12340
